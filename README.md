@@ -1,7 +1,16 @@
 # imWatermark
 This snippet of code attempts to watermark images.
 
-# Usage
+
+## Installation
+
+Run the following to install:
+
+```python
+pip install imWatermark
+```
+
+## Usage
 ```python
 import cv2 
 import numpy as np
@@ -20,7 +29,7 @@ img_out = cv2.cvtColor(hsv, cv2.COLOR_HSV2BGR)
     
 cv2.imwrite('assets/lotus-watermark.jpg', img_out)
 ```
-# Output
+## Output
 This is a sample image:  
 !["Sample Image"](https://raw.githubusercontent.com/Mamdasn/imWatermark/main/assets/lotus.jpg "Sample Image")  
 This is the sample image watermarked:  
