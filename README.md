@@ -1,3 +1,8 @@
+[![PyPI Latest Release](https://img.shields.io/pypi/v/imWatermark.svg)](https://pypi.org/project/imWatermark/)
+[![Package Status](https://img.shields.io/pypi/status/imWatermark.svg)](https://pypi.org/project/imWatermark/)
+[![Downloads](https://pepy.tech/badge/imWatermark)](https://pepy.tech/project/imWatermark)
+[![License](https://img.shields.io/pypi/l/imWatermark.svg)](https://github.com/Mamdasn/imWatermark/blob/main/LICENSE)
+
 # imWatermark
 This snippet of code attempts to watermark images.
 
