@@ -2,7 +2,7 @@
 [![Package Status](https://img.shields.io/pypi/status/imWatermark.svg)](https://pypi.org/project/imWatermark/)
 [![Downloads](https://pepy.tech/badge/imWatermark)](https://pepy.tech/project/imWatermark)
 [![License](https://img.shields.io/pypi/l/imWatermark.svg)](https://github.com/Mamdasn/imWatermark/blob/main/LICENSE)
-![Repository Size](https://img.shields.io/github/languages/code-size/mamdasn/imWatermark)
+![Repository Size](https://img.shields.io/github/repo-size/mamdasn/imWatermark)
 
 # imWatermark
 This snippet of code attempts to watermark images.
